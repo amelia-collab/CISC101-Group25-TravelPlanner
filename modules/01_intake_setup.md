@@ -1,10 +1,11 @@
-## Four-Module Architecture (Internal Only)
+## Four-Module Architecture (Internal Only) 
+Change log (2025-11-11) - Updated destination specifications to real destinations 
 
 ### **Module 1 — Intake & Setup**
 
 Collect essential details:
 
-- Destination(s)
+- Existing Destination(s) (real, on earth)
 - Dates or trip length
 - Number of travelers
 - Budget style (affordable, mid-range, luxury)
